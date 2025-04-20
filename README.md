@@ -7,19 +7,13 @@ Task 6: Elevate Labs
 Analyze monthly revenue and order volume from the online_sales dataset.
 
 ## Tools
-- PostgreSQL
-- SQL
-- GitHub
+- MySQL
 
 ## Contents
 - SQL query for trend analysis
 - CSV of results
 - Observations, insights, and strategic recommendations
 
-## How to Use
-1. Run the SQL script from the `sql/` folder.
-2. Export results to CSV and review the insights.
-3. Use the findings to guide decision-making.
 
 ---   
 
